@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dex",
+            "request": "launch",
+            "mainClass": "Dex"
+        }
+    ]
+}
